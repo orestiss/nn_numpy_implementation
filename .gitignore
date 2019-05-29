@@ -1,0 +1,5 @@
+build/
+dist/
+nn_numpy_implementation.egg-info/
+*.pyc
+
